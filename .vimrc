@@ -1,4 +1,4 @@
 set nu
-set rnu
+" set rnu
 syntax on
 imap jj <ESC>
