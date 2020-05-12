@@ -11,7 +11,9 @@ export ZSH="/home/bully/.oh-my-zsh"
 # ZSH_THEME="robbyrussell"
 # ZSH_THEME="gnzh"
 # ZSH_THEME="random"
-ZSH_THEME="fwalch"
+# ZSH_THEME="fwalch"
+ZSH_THEME="af-magic"
+
 # Set lis of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
 # a theme from this variable instead of looking in ~/.oh-my-zsh/themes/
@@ -102,5 +104,3 @@ source $ZSH/oh-my-zsh.sh
 alias n=neofetch
 alias zshconfig="vim ~/.zshrc"
 alias c=clear
-alias activate="source /home/bully/miniconda3/bin/activate"
-
