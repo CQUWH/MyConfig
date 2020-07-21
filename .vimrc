@@ -4,7 +4,6 @@ set nu
 " set rnu
 syntax on
 imap jj <ESC>
-
 " 缩进
 set tabstop=4
 set softtabstop=4
