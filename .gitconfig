@@ -1,3 +1,5 @@
 [user]
 	email = bully.cqu@gmail.com
 	name = CQUWH
+[http]
+	proxy = http://127.0.0.1:12333
